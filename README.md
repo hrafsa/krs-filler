@@ -36,6 +36,6 @@ The script also contains an array idKrs of course IDs. It iterates over this arr
 
 ---
 > [!NOTE]
-> Last Update : `24 February 2024 `
+> Last Update : `16 August 2024 `
 > 
-> Version : `1.2.0`
+> Version : `1.2.1`
