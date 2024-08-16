@@ -29,14 +29,13 @@ function add_krs(id) {
 
 // An array of course ids.
 var idKrs = [
-  '196609',   //1000000350 - Logika dan Penalaran Ilmiah 
-  '197280',   //1512600027 - Interaksi Manusia Dan Komputer	 
-  '197289',   //1512600030 - Perencanaan Pembelajaran 
-  '197294',   //1512600033 - Sistem Operasi 
-  '197142',   //1512600003 - Basis Data 
-  '197299',   //1512600036 - Sistem Multimedia 
-  '197305',   //1512600039 - Kecerdasan Buatan 
-  '201035'    //1512600060 - Analisis dan Perencangan Sistem
+	'208445',
+	'208537',
+	'208457',
+	'208469',
+	'208475',
+	'208478',
+	'208481'
 ];
 
 // For each course idKrs in the array, call the add_krs function.
