@@ -30,7 +30,6 @@ function add_krs(id) {
 // An array of course ids.
 var idKrs = [
 	'218600',
-	'215109',
 	'215091',
 	'215074',
 	'215113',
