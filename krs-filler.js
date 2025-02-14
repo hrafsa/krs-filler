@@ -34,6 +34,8 @@ var idKrs = [
 	'215074',
 	'215113',
 	'218607',
+	'215135', //RPL
+	'215130', //RPL
 ];
 
 // For each course idKrs in the array, call the add_krs function.
