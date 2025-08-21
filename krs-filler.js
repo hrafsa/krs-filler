@@ -31,6 +31,7 @@ function add_krs(id) {
 var idKrs = [
 	'227543', //RPL
 	'221658', //RPL
+	'221888', //SEMPRO
 ];
 
 // For each course idKrs in the array, call the add_krs function.
